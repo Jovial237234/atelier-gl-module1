@@ -37,3 +37,10 @@ python src/main.py
 ```
 
 Le programme affiche un message de bienvenue dans le terminal.
+
+## 5. Outils utilisés
+
+- Python 3.14.7 : langage utilisé pour développer le programme.
+- Visual Studio Code : éditeur de code utilisé pour créer et modifier les fichiers.
+- Git 2.56.1 : outil utilisé pour la gestion des versions du projet.
+- GitHub : plateforme prévue pour héberger le dépôt distant.
